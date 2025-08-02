@@ -32,9 +32,7 @@
             <li>PHP web development</li>
             <li>Building awesome websites</li>
         </ul>
-        
-        <p><em>This page shows how Laravel passes data from routes to views!</em></p>
-        
+    
         <p><a href="/">← Back to Home</a></p>
     </div>
 </body>
