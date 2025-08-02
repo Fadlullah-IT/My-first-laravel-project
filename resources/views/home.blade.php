@@ -31,8 +31,7 @@
             <li>✅ How to pass data to views</li>
             <li>✅ How to handle forms</li>
         </ul>
-        
-        <p><em>This simple project demonstrates Laravel's basic concepts without any complexity!</em></p>
+    
     </div>
 </body>
 </html>
