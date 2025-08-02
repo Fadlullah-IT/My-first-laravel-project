@@ -46,8 +46,7 @@
             <button type="submit">Send Message</button>
         </form>
         
-        <p><em>This form demonstrates Laravel's CSRF protection and form handling!</em></p>
-        
+              
         <p><a href="/">← Back to Home</a></p>
     </div>
 </body>
