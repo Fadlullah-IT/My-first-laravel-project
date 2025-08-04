@@ -12,6 +12,7 @@
     <form method="POST" action="/contact">
         @csrf
         
+
         <div class="form-group">
             <label for="name">Your Name:</label>
             <input type="text" id="name" name="name" required>
